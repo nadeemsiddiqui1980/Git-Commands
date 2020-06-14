@@ -67,3 +67,7 @@ PS C:\Users\Samu\Desktop\Localrepo> git remote remove origin
 . git checkout branchname (This is used to swith the branch)
 
 . git checkout mybranch
+
+. git config --global --unset user.name - (To Log-Out from Github)
+. git config --global --unset user.email - (To Log-Out from Github)
+. git config --global --unset credential.helper - (To Log-Out from Github)
