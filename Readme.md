@@ -52,7 +52,7 @@ PS C:\Users\Samu\Desktop\Localrepo> git remote remove origin
 
 . git pull origin master
 
-. git push origin master
+. git push -u origin master
 
 . git push -f origin master (This will push the local update to the remote repository. This is not recommended)
 
