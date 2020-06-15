@@ -1,7 +1,7 @@
 # Below are the list of Git command
 
-### git config --global user.name "fly2nadeem"
-### git config --global user.email fly2nadeem@gmail.com
+### git config --global user.name "nadeemsiddiqui1980"
+### git config --global user.email nadeem.s.siddiqui@hotmail.com
 
 . git --version (Check Version)
 
